@@ -1,0 +1,8 @@
+* Usage
+
+1. Configure gcloud and enable vision API
+
+2. Command-line:
+
+image2text FILENAME
+
