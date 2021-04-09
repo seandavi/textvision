@@ -4,5 +4,13 @@
 
 2. Command-line:
 
+#+BEGIN_SRC sh
 image2text FILENAME
+#+END_SRC
+
+* Install
+
+#+BEGIN_SRC sh
+pip install textvision
+#+END_SRC
 
