@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "image2text"
+name = "textvision"
 version = "0.1.0"
-description = "image2text uses the Google Vision API to perform OCR and return text."
+description = "textvision uses the Google Vision API to perform OCR and return text."
 authors = ["Sean Davis <seandavi@gmail.com>"]
 license = "MIT"
 
@@ -17,4 +17,4 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-image2text = 'image2text.detectors:detect'
+textvision = 'textvision.detectors:detect'
