@@ -1,4 +1,16 @@
-* Usage
+* textvision
+
+This command-line tool takes an image file as input and returns extracted text. 
+It is useful, for example, for extracting text from screenshots or slides to keep
+in notes for search.
+
+** Install
+
+#+BEGIN_SRC sh
+pip install textvision
+#+END_SRC
+
+** Usage
 
 1. Configure gcloud and [[https://cloud.google.com/vision/docs/setup][enable vision API]]
 
@@ -8,9 +20,5 @@
 image2text FILENAME
 #+END_SRC
 
-* Install
 
-#+BEGIN_SRC sh
-pip install textvision
-#+END_SRC
 
