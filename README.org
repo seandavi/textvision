@@ -1,6 +1,6 @@
 * Usage
 
-1. Configure gcloud and [https://cloud.google.com/vision/docs/setup](enable vision API)
+1. Configure gcloud and [[https://cloud.google.com/vision/docs/setup][enable vision API]]
 
 2. Command-line:
 
